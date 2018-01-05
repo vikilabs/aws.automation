@@ -1,5 +1,10 @@
 #! /usr/bin/env python
-#Program to push data to AWS Dynamo DB
+'''
+    Program: Push data to AWS Dynamo DB
+    Author: Vignesh Natarajan (www.vikilabs.in)
+    
+'''
+
 
 from selenium import webdriver
 import time

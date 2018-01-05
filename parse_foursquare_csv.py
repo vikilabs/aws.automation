@@ -1,3 +1,9 @@
+'''
+    
+    Author: Vignesh Natarajan (www.vikilabs.in)
+    
+'''
+
 import csv
 
 foursquare_csv = "CSV PATH"
