@@ -46,7 +46,7 @@ def aws_login():
         close_browser()
         return
 
-    loginBox.send_keys('614110936296')
+    loginBox.send_keys('ACCOUNT_ID')
     time.sleep(2)
 
     try:
